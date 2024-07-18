@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [SCADIAgro](https://scadiagro.com.br/)
 
-- 🌱 I’m currently learning **Go, DevOps, AWS**
+- 🌱 I’m currently learning **Go,Python,DevOps,AWS**
 
-- 💬 Ask me about **Node,TypeScript, React, Next...**
+- 💬 Ask me about **Node,TypeScript, React, Next, Java...**
 
 - 📫 How to reach me **https://mauriciocarrion.tech**
 
